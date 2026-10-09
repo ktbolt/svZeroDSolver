@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['jsonwrapper_0',['JsonWrapper',['../class_json_wrapper.html',1,'']]],
-  ['junction_1',['Junction',['../class_junction.html',1,'']]]
+  ['flowreferencebc_0',['FlowReferenceBC',['../class_flow_reference_b_c.html',1,'']]],
+  ['fourieractivation_1',['FourierActivation',['../class_fourier_activation.html',1,'']]]
 ];

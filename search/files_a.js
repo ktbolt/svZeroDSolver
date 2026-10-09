@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['parameter_2eh_0',['Parameter.h',['../_parameter_8h.html',1,'']]],
-  ['pressurereferencebc_2eh_1',['PressureReferenceBC.h',['../_pressure_reference_b_c_8h.html',1,'']]]
+  ['openloopcoronarybc_2eh_0',['OpenLoopCoronaryBC.h',['../_open_loop_coronary_b_c_8h.html',1,'']]],
+  ['openloopcoronaryvarresbc_2eh_1',['OpenLoopCoronaryVarResBC.h',['../_open_loop_coronary_var_res_b_c_8h.html',1,'']]]
 ];

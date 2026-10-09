@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['openloopcoronarybc_0',['OpenLoopCoronaryBC',['../class_open_loop_coronary_b_c.html',1,'']]]
+  ['levenbergmarquardtoptimizer_0',['LevenbergMarquardtOptimizer',['../class_levenberg_marquardt_optimizer.html',1,'']]],
+  ['linearelastancechamber_1',['LinearElastanceChamber',['../class_linear_elastance_chamber.html',1,'']]]
 ];

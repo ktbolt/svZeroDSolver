@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['bibliography_0',['Bibliography',['../citelist.html',1,'']]],
-  ['blocks_1',['Adding New Blocks',['../add_block.html',1,'']]]
+  ['2_3a_20multi_20outlet_20pulmonary_20tree_20tuning_0',['Example 2: Multi-Outlet Pulmonary Tree Tuning',['../tuner_examples.html#autotoc_md36',1,'']]]
 ];
